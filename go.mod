@@ -1,4 +1,4 @@
-module github.com/dgoradia/go-github-headerauth
+module github.com/dgoradia/go-githubheaderauth
 
 require (
 	github.com/google/go-github v17.0.0+incompatible
